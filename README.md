@@ -167,7 +167,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 👤 Author
 
 **Illuminate Hope**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: (https://github.com/vincentjila2026)
 - Email: info@illuminatehope.co.za
 - Website: [www.illuminatehope.co.za](https://www.illuminatehope.co.za)
 
